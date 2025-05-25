@@ -1,0 +1,17 @@
+{
+  "name": "ozonestudio",
+  "version": "1.0.0",
+  "description": "Monorepo for Ozone Studio, a library for building and deploying workflows tools.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenOzone/OzoneStudio.git"
+  },
+  "keywords": [],
+  "author": "OpenOzone",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/OpenOzone/OzoneStudio/issues"
+  },
+  "homepage": "https://github.com/OpenOzone/OzoneStudio#readme"
+}

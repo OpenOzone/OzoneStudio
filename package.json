@@ -14,5 +14,8 @@
     "url": "https://github.com/OpenOzone/OzoneStudio/issues"
   },
   "homepage": "https://github.com/OpenOzone/OzoneStudio#readme",
-  "packageManager": "yarn@4.6.0"
+  "packageManager": "yarn@4.6.0",
+  "devDependencies": {
+    "nx": "21.1.2"
+  }
 }
